@@ -1,0 +1,33 @@
+body{
+ background: url(login.jpg);
+ background-size: cover;
+ background-position: center;
+    
+}
+a.float-right.rt {
+    margin-right: 255px;
+     margin-top: 55px;
+    font-size: 19px;
+    font-weight: 600;
+    
+}
+.back-cover{
+    background: url(welcome.jpg);
+     background-size: cover;
+ background-position: center;
+}
+.login-box{
+   max-width: 590px;
+    margin: 200px -132px;
+}
+.login-left{
+    box-shadow: 4px 7px 13px 0px black;
+    background-color: #fff;
+    padding: 30px;
+}
+.login-right{
+  box-shadow: 4px 7px 13px 0px black;
+  background-color: #8EC5FC;
+  background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+  padding:30px; 
+}
